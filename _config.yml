@@ -55,7 +55,7 @@ address:
   - line: BITS-PILANI Rajasthan
 
 # Credits content
-credits: 'Nikhil_Ranjan<a href="nikhilranjan7.github.io"</a>'
+credits: 'Nikhil_Ranjan<a href="nikhilranjan7.github.io"></a>'
 
 # Build settings
 markdown: kramdown
